@@ -1,0 +1,7 @@
+{
+    "field_size": 7,
+    "fields_in_col": 192,
+    "fields_in_row": 108,
+    "draw_visited_fields_speed": 10,
+    "draw_found_path_speed": 10
+}
